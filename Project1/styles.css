@@ -1,0 +1,26 @@
+.get_informations{
+background:linear-gradient(to left,white,rgb(152, 152, 192));
+margin-left: 25vw;
+width: 40vw;
+border: 5px solid rgb(112, 100, 100);
+border-radius: 15px;
+}
+li{
+    margin-top: 55px;
+}
+.first_li{
+    margin-top: 30px;
+}
+ul{
+    list-style-type: none;
+}
+input{
+    border: 3px solid rgb(112, 103, 103) ;
+    border-radius: 15px;
+    width: 15vw;
+}
+
+button{
+    margin-top: 15px;
+    border-radius: 15px;
+}
