@@ -1,0 +1,31 @@
+.get_informations{
+    background:linear-gradient(to left, rgb(233, 121, 121), rgb(216, 216, 79));
+    width: 40vw;
+    margin-left:25vw;
+    border: 2px solid rgba(201, 162, 191, 0.856);
+    border-radius: 10px;
+}
+input{
+    margin-top: 15px;
+    border: 2px solid black;
+    border-radius: 10px;
+    width: 15vw;
+}
+button{
+    margin-top: 15px;
+    border: 2px solid black;
+    border-radius: 10px;
+}
+
+.show_result{
+   margin-top: 15px;
+    background:linear-gradient(to left, rgb(233, 121, 121), rgb(216, 216, 79));
+    width: 40vw;
+    margin-left:25vw;
+    border: 2px solid rgba(201, 162, 191, 0.856);
+    border-radius: 10px;
+   
+}
+p{
+    margin-left: 15vw;
+}
